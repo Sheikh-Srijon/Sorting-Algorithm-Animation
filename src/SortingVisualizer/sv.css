@@ -1,0 +1,17 @@
+.container{
+    position: absolute; 
+    left: 100px;
+}
+
+.bar{
+    width: 2px; 
+    background-color: skyblue;
+    display: inline-block;
+    margin: 40% 4 px;
+}
+
+.button{
+    margin: 5% 20%;
+    padding: 100;
+
+}
