@@ -1,6 +1,9 @@
 Overview: 
 
 This project animates the sorting process of a random, unsorted array real time. I built this when learning abotu mergesort in my Algorithms class at Stanford.
+
+https://github.com/Sheikh-Srijon/Sorting-Algorithm-Animation/issues/2#issue-842944981
+
 <a href="https://imgflip.com/gif/53jzwf">via Imgflip</a>
 
 
