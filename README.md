@@ -1,16 +1,14 @@
-<h1>Overview: </h1>
+<h1>Overview</h1>
 
 This project animates the sorting of a random, unsorted array real time. I built this when learning aboout mergesort in my Algorithms class at Stanford.
 
-Animation : 
+<h2>Animation</h2>
 To watch a quick video of the sorting, go to Issues tab next in the bar above.
 
 To download the animation: 
 
-https://user-images.githubusercontent.com/47705083/112785520-f91e0680-9075-11eb-9668-9e1b63d5e7f5.mov
+<a href='https://user-images.githubusercontent.com/47705083/112785520-f91e0680-9075-11eb-9668-9e1b63d5e7f5.mov'/>
 
-
-<a href="https://imgflip.com/gif/53jzwf">via Imgflip</a>
 
 
 # Getting Started with Create React App
