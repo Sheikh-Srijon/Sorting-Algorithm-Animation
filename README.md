@@ -1,6 +1,6 @@
 <h1>Overview</h1>
 
-This project animates the sorting of a random, unsorted array real time. I built this when learning aboout mergesort in my Algorithms class at Stanford.
+This project animates the sorting of a random, unsorted array real time. I built this when learning aboout mergesort in my Algorithms class at Stanford. The inspiration of this was Clement Mihailescu's YouTube tutorial.
 
 <h2>Animation</h2>
 To watch a quick video of the sorting, go to Issues tab next in the bar above.
