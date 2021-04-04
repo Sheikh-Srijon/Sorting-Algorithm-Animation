@@ -1,4 +1,4 @@
-Overview: 
+<h1>Overview: </h1>
 
 This project animates the sorting of a random, unsorted array real time. I built this when learning aboout mergesort in my Algorithms class at Stanford.
 
